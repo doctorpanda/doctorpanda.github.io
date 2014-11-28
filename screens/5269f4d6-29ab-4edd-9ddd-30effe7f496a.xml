@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<screen>
+  <parentCode />
+  <folderPosition>8</folderPosition>
+  <name>登录</name>
+  <code>5269f4d6-29ab-4edd-9ddd-30effe7f496a</code>
+  <templateID>f39803f7-df02-4169-93eb-7547fb8c961a</templateID>
+  <date>28/11/2014 23:01:26</date>
+  <note></note>
+  <legend-item></legend-item>
+  <pageAlignment>LEFT</pageAlignment>
+  <orientation>PORTRAIT</orientation>
+  <backgroundGrowth>VERTICAL</backgroundGrowth>
+  <item-group id="dfc0cf84-3927-407d-9667-2ac379840a42" visible="true">
+    <group-container id="d199d3ff-7d59-48be-bd83-93043715260b" hidden="false" locked="false" lockType="none" onTop="false" visible="true">
+      <group-container id="ecf13836-1df3-4a10-8856-bdbcc1e31a00" hidden="false" locked="true" lockType="vertical" onTop="false" visible="true">
+        <rich-text id="3953bb7d-6ff2-4c05-9a4a-dd6b07001210" auto-fit="false" hidden="false" locked="true" lockType="vertical" onTop="false" visible="true">
+          <text>密码</text>
+          <style name="LnFRichText">
+            <DimensionStyle width="320" height="45" />
+            <PositioningStyle left="0" top="0" />
+            <BackgroundStyle type="color" value="255r255g255b" />
+            <BorderStyle radius="0" leftColor="153r153g153b" topColor="153r153g153b" rightColor="153r153g153b" bottomColor="153r153g153b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+            <TextStyle color="0r0g0b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+            <FontStyle size="10" height="18">
+              <family>Roboto</family>
+              <style name="Bold" weight="700" italic="normal" />
+              <evc-file>Roboto-Bold</evc-file>
+            </FontStyle>
+            <TransparencyStyle value="0" />
+            <PaddingStyle top="0" left="15" bottom="0" right="0" />
+            <RotationStyle angle="0" />
+            <ShadowStyle>
+              <Box enable="false" />
+              <Text enable="false" />
+            </ShadowStyle>
+          </style>
+          <rich-text-range-list>
+            <text-range text-range-start="0" text-range-end="2">
+              <style name="LnFTextRange">
+                <FontStyle size="10" height="18">
+                  <family>Roboto</family>
+                  <style name="Bold" weight="700" italic="normal" />
+                  <evc-file>Roboto-Bold</evc-file>
+                </FontStyle>
+                <TextStyle color="0r0g0b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+              </style>
+            </text-range>
+          </rich-text-range-list>
+          <userID>Rich_text_5</userID>
+        </rich-text>
+        <attribute-form id="47245631-be61-4860-b2bc-3afab0293936" writable="true" hidden="false" locked="true" lockType="vertical" onTop="false" visible="true">
+          <attStyle>Password</attStyle>
+          <type>text</type>
+          <style name="LnFAttributeForm">
+            <DimensionStyle width="151" height="23" />
+            <PositioningStyle left="119" top="11" />
+            <BackgroundStyle type="color" value="255r255g255b" />
+            <BorderStyle radius="0" leftColor="200r200g200b" topColor="200r200g200b" rightColor="200r200g200b" bottomColor="200r200g200b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+            <TextStyle color="64r64g64b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+            <FontStyle size="10" height="15">
+              <family>Arial</family>
+              <style name="Regular" weight="400" italic="normal" />
+            </FontStyle>
+            <TransparencyStyle value="0" />
+            <PaddingStyle top="0" left="0" bottom="0" right="0" />
+            <ShadowStyle>
+              <Box enable="false" />
+              <Text enable="false" />
+            </ShadowStyle>
+          </style>
+          <defaultValue>label</defaultValue>
+          <userID>Input_2</userID>
+        </attribute-form>
+        <style name="LnFGroup">
+          <DimensionStyle width="320" height="45" />
+          <PositioningStyle left="0" top="46" />
+        </style>
+        <userID>Group_10</userID>
+      </group-container>
+      <rich-text id="e5c6feb2-44b3-4051-8076-ebacaa03d010" auto-fit="false" hidden="false" locked="true" lockType="vertical" onTop="false" visible="true">
+        <text>Email</text>
+        <style name="LnFRichText">
+          <DimensionStyle width="318" height="45" />
+          <PositioningStyle left="0" top="0" />
+          <BackgroundStyle type="color" value="255r255g255b" />
+          <BorderStyle radius="0" leftColor="138r138g138b" topColor="138r138g138b" rightColor="138r138g138b" bottomColor="138r138g138b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+          <TextStyle color="0r0g0b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+          <FontStyle size="10" height="18">
+            <family>Roboto</family>
+            <style name="Bold" weight="700" italic="normal" />
+            <evc-file>Roboto-Bold</evc-file>
+          </FontStyle>
+          <TransparencyStyle value="0" />
+          <PaddingStyle top="0" left="15" bottom="0" right="0" />
+          <RotationStyle angle="0" />
+          <ShadowStyle>
+            <Box enable="false" />
+            <Text enable="false" />
+          </ShadowStyle>
+        </style>
+        <rich-text-range-list>
+          <text-range text-range-start="0" text-range-end="5">
+            <style name="LnFTextRange">
+              <FontStyle size="10" height="18">
+                <family>Roboto</family>
+                <style name="Bold" weight="700" italic="normal" />
+                <evc-file>Roboto-Bold</evc-file>
+              </FontStyle>
+              <TextStyle color="0r0g0b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+            </style>
+          </text-range>
+        </rich-text-range-list>
+        <userID>Rich_text_4</userID>
+      </rich-text>
+      <attribute-form id="9a6b27bc-1660-481b-888d-85cf3dc7c5a6" writable="true" hidden="false" locked="true" lockType="vertical" onTop="false" visible="true">
+        <attStyle>InputText</attStyle>
+        <type>text</type>
+        <style name="LnFAttributeForm">
+          <DimensionStyle width="193" height="23" />
+          <PositioningStyle left="85" top="11" />
+          <BackgroundStyle type="color" value="255r255g255b" />
+          <BorderStyle radius="0" leftColor="200r200g200b" topColor="200r200g200b" rightColor="200r200g200b" bottomColor="200r200g200b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+          <TextStyle color="0r0g0b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+          <FontStyle size="10" height="18">
+            <family>Roboto</family>
+            <style name="Regular" weight="400" italic="normal" />
+            <evc-file>Roboto-Regular</evc-file>
+          </FontStyle>
+          <TransparencyStyle value="0" />
+          <PaddingStyle top="0" left="0" bottom="0" right="0" />
+          <ShadowStyle>
+            <Box enable="false" />
+            <Text enable="false" />
+          </ShadowStyle>
+        </style>
+        <defaultValue></defaultValue>
+        <userID>Input_1</userID>
+      </attribute-form>
+      <style name="LnFGroup">
+        <DimensionStyle width="320" height="91" />
+        <PositioningStyle left="0" top="111" />
+      </style>
+      <info>Sign in</info>
+      <userID>Group_1</userID>
+    </group-container>
+    <image id="57367d16-200f-4765-8a94-68a26a0da4f3" hidden="false" locked="false" lockType="none" onTop="false" visible="true">
+      <image-name>1b996be6-a20a-42c6-ae88-374b7f39929d.png</image-name>
+      <original-name>logo.png</original-name>
+      <style name="LnFImage">
+        <DimensionStyle width="132" height="36" />
+        <PositioningStyle left="83" top="59" />
+        <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+        <TransparencyStyle value="0" />
+        <RotationStyle angle="0" />
+        <ShadowStyle>
+          <Box enable="false" />
+        </ShadowStyle>
+      </style>
+      <userID>Image_1</userID>
+    </image>
+    <rich-text id="8cc53192-4ef2-4b50-a1b2-50a27578c715" auto-fit="false" hidden="false" locked="true" lockType="vertical" onTop="false" visible="true">
+      <text>登录</text>
+      <style name="LnFRectangle">
+        <DimensionStyle width="266" height="35" />
+        <PositioningStyle left="27" top="465" />
+        <BackgroundStyle type="transparent" />
+        <BorderStyle radius="30" leftColor="64r64g64b" topColor="64r64g64b" rightColor="64r64g64b" bottomColor="64r64g64b" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+        <TextStyle color="51r51g51b" hAlign="center" vAlign="center" decoration="none" line-height="20" />
+        <FontStyle size="11" height="16">
+          <family>Arial</family>
+          <style name="Regular" weight="400" italic="normal" />
+        </FontStyle>
+        <TransparencyStyle value="0" />
+        <PaddingStyle top="0" left="0" bottom="0" right="0" />
+        <RotationStyle angle="0" />
+        <ShadowStyle>
+          <Box enable="false" />
+          <Text enable="false" />
+        </ShadowStyle>
+      </style>
+      <rich-text-range-list>
+        <text-range text-range-start="0" text-range-end="2">
+          <style name="LnFTextRange">
+            <FontStyle size="11" height="16">
+              <family>Arial</family>
+              <style name="Regular" weight="400" italic="normal" />
+            </FontStyle>
+            <TextStyle color="51r51g51b" hAlign="center" vAlign="center" decoration="none" line-height="20" />
+          </style>
+        </text-range>
+      </rich-text-range-list>
+      <info>Black button</info>
+      <userID>Rectangle_2</userID>
+    </rich-text>
+    <label id="49827e81-38fb-4742-aafa-0eaa3cc2f657" auto-fit="false" hidden="false" locked="true" lockType="vertical" onTop="false" visible="true">
+      <text>忘记密码</text>
+      <style name="LnFTextBox">
+        <DimensionStyle width="78" height="29" />
+        <PositioningStyle left="83" top="515" />
+        <BackgroundStyle type="transparent" />
+        <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+        <TextStyle color="0r125g255b" hAlign="center" vAlign="center" decoration="none" line-height="0" />
+        <FontStyle size="12" height="21">
+          <family>Roboto</family>
+          <style name="Regular" weight="400" italic="normal" />
+          <evc-file>Roboto-Regular</evc-file>
+        </FontStyle>
+        <TransparencyStyle value="0" />
+        <PaddingStyle top="0" left="0" bottom="0" right="0" />
+        <RotationStyle angle="0" />
+        <ShadowStyle>
+          <Box enable="false" />
+          <Text enable="false" />
+        </ShadowStyle>
+      </style>
+      <info>Button</info>
+      <userID>Label_3</userID>
+    </label>
+    <label id="907d5e7e-4efc-4121-a6a7-67f9e3afffc7" auto-fit="false" hidden="false" locked="true" lockType="vertical" onTop="false" visible="true">
+      <text>注册</text>
+      <style name="LnFTextBox">
+        <DimensionStyle width="78" height="29" />
+        <PositioningStyle left="6" top="515" />
+        <BackgroundStyle type="transparent" />
+        <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+        <TextStyle color="0r125g255b" hAlign="center" vAlign="center" decoration="none" line-height="0" />
+        <FontStyle size="12" height="21">
+          <family>Roboto</family>
+          <style name="Regular" weight="400" italic="normal" />
+          <evc-file>Roboto-Regular</evc-file>
+        </FontStyle>
+        <TransparencyStyle value="0" />
+        <PaddingStyle top="0" left="0" bottom="0" right="0" />
+        <RotationStyle angle="0" />
+        <ShadowStyle>
+          <Box enable="false" />
+          <Text enable="false" />
+        </ShadowStyle>
+      </style>
+      <info>Button</info>
+      <userID>Label_4</userID>
+    </label>
+    <style name="LnFCanvas">
+      <DimensionStyle width="320" height="544" />
+      <PositioningStyle left="0" top="0" />
+      <BackgroundStyle type="transparent" />
+      <TransparencyStyle value="0" />
+    </style>
+  </item-group>
+  <Events>
+    <event id="8cc53192-4ef2-4b50-a1b2-50a27578c715" trigger="onClick">
+      <case>
+        <description>Interaction name</description>
+        <block>
+          <navigateLink>
+            <screen id="68503a7d-e959-40d2-95b6-e671729aeb29">找医生</screen>
+          </navigateLink>
+        </block>
+      </case>
+    </event>
+    <event id="907d5e7e-4efc-4121-a6a7-67f9e3afffc7" trigger="onClick">
+      <case>
+        <description>Interaction name</description>
+        <block>
+          <navigateLink>
+            <screen id="d824b77e-c9fe-4501-aa87-4d0146bfc6d2">注册</screen>
+          </navigateLink>
+        </block>
+      </case>
+    </event>
+  </Events>
+</screen>
+

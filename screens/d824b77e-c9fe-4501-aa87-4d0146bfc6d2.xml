@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<screen>
+  <parentCode />
+  <folderPosition>9</folderPosition>
+  <name>注册</name>
+  <code>d824b77e-c9fe-4501-aa87-4d0146bfc6d2</code>
+  <templateID>f39803f7-df02-4169-93eb-7547fb8c961a</templateID>
+  <date>28/11/2014 22:26:56</date>
+  <note></note>
+  <legend-item></legend-item>
+  <pageAlignment>LEFT</pageAlignment>
+  <orientation>PORTRAIT</orientation>
+  <backgroundGrowth>VERTICAL</backgroundGrowth>
+  <item-group id="483bceb7-d855-49e1-85c1-2b2f1a52419a" visible="true">
+    <style name="LnFCanvas">
+      <DimensionStyle width="0" height="0" />
+      <PositioningStyle left="0" top="0" />
+      <BackgroundStyle type="transparent" />
+      <TransparencyStyle value="0" />
+    </style>
+  </item-group>
+  <Events />
+</screen>
+

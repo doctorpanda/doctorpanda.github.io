@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<screen>
+  <parentCode />
+  <folderPosition>3</folderPosition>
+  <name>历史详细</name>
+  <code>187c81e5-b0f4-4343-baba-527b45e6d755</code>
+  <templateID>f39803f7-df02-4169-93eb-7547fb8c961a</templateID>
+  <date>28/11/2014 22:42:28</date>
+  <note></note>
+  <legend-item></legend-item>
+  <pageAlignment>LEFT</pageAlignment>
+  <orientation>PORTRAIT</orientation>
+  <backgroundGrowth>VERTICAL</backgroundGrowth>
+  <item-group id="7952aeb9-aae1-4a99-b137-3d76a01eac39" visible="true">
+    <tabbedBox id="dcf0bd65-51b1-4903-85ed-219321faec27" default="0" selected="0" content-editable="true" hidden="false" locked="false" lockType="none" onTop="false" visible="true">
+      <tab id="1fed553a-ec93-489e-900a-b690c0956a85" identifier="6d70c249-958b-450b-b98d-a978ef423b3f" hScroll="0" vScroll="0" visible="true">
+        <name>Lateral_panel</name>
+        <userID>Lateral_panel</userID>
+        <item-group id="c56d764b-d6fb-48ac-b704-68b25a81da57" visible="true">
+          <rich-text id="adfbb695-2763-413e-8921-bd4a451d4677" auto-fit="false" hidden="false" locked="false" lockType="none" onTop="false" visible="true">
+            <text></text>
+            <style name="LnFRectangle">
+              <DimensionStyle width="320" height="46" />
+              <PositioningStyle left="0" top="0" />
+              <BackgroundStyle type="color" value="246r245g241b" />
+              <BorderStyle radius="0" leftColor="216r216g214b" topColor="216r216g214b" rightColor="216r216g214b" bottomColor="216r216g214b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="solid" leftWidth="2" topWidth="2" rightWidth="2" bottomWidth="2" />
+              <TextStyle color="51r51g51b" hAlign="center" vAlign="center" decoration="none" line-height="20" />
+              <FontStyle size="11" height="16">
+                <family>Arial</family>
+                <style name="Regular" weight="400" italic="normal" />
+              </FontStyle>
+              <TransparencyStyle value="0" />
+              <PaddingStyle top="0" left="0" bottom="0" right="0" />
+              <RotationStyle angle="0" />
+              <ShadowStyle>
+                <Box enable="false" />
+                <Text enable="false" />
+              </ShadowStyle>
+            </style>
+            <rich-text-range-list>
+              <text-range text-range-start="0" text-range-end="0">
+                <style name="LnFTextRange">
+                  <FontStyle size="11" height="17">
+                    <family>Arial</family>
+                    <style name="Regular" weight="400" italic="normal" />
+                  </FontStyle>
+                  <TextStyle color="51r51g51b" hAlign="center" vAlign="center" decoration="none" line-height="20" />
+                </style>
+              </text-range>
+            </rich-text-range-list>
+            <userID>Rich_text_3</userID>
+          </rich-text>
+          <label id="0a05d56e-6701-4ee1-8e6a-e12156270b5f" auto-fit="false" hidden="false" locked="false" lockType="none" onTop="false" visible="true">
+            <text>张医生 2014-11-2</text>
+            <style name="LnFTextBox">
+              <DimensionStyle width="165" height="29" />
+              <PositioningStyle left="80" top="9" />
+              <BackgroundStyle type="transparent" />
+              <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+              <TextStyle color="51r51g51b" hAlign="center" vAlign="center" decoration="none" line-height="0" />
+              <FontStyle size="14" height="21">
+                <family>Arial</family>
+                <style name="Bold" weight="700" italic="normal" />
+              </FontStyle>
+              <TransparencyStyle value="0" />
+              <PaddingStyle top="0" left="0" bottom="0" right="0" />
+              <RotationStyle angle="0" />
+              <ShadowStyle>
+                <Box enable="false" />
+                <Text enable="false" />
+              </ShadowStyle>
+            </style>
+            <userID>Label_3</userID>
+          </label>
+          <image id="30b7219f-3bea-43d2-bc6f-23d9634e52bf" hidden="false" locked="true" lockType="bothsizes" onTop="false" visible="true">
+            <image-name>375747d9-3972-4704-81be-65a2208ec1bd.png</image-name>
+            <original-name>5d1aa98d-4250-414f-aed4-2fd9a89c3373.png</original-name>
+            <style name="LnFImage">
+              <DimensionStyle width="17" height="16" />
+              <PositioningStyle left="10" top="15" />
+              <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+              <TransparencyStyle value="0" />
+              <RotationStyle angle="0" />
+              <ShadowStyle>
+                <Box enable="false" />
+              </ShadowStyle>
+            </style>
+            <info>Menu icon</info>
+            <userID>Image_3</userID>
+          </image>
+          <image-map id="7fcd65ef-dadc-4444-a657-c6ada3fd8c26" hidden="false" locked="false" lockType="none" onTop="false" visible="true">
+            <style name="LnFImageMap">
+              <DimensionStyle width="53" height="46" />
+              <PositioningStyle left="0" top="1" />
+              <RotationStyle angle="0" />
+            </style>
+            <userID>Image_map_1</userID>
+          </image-map>
+          <image id="3bf4a0d8-41f4-4a0c-b295-d92b1c47eb92" hidden="false" locked="false" lockType="none" onTop="false" visible="true">
+            <image-name>70f7f0d7-39de-40eb-94bd-fd89adc25382.jpg</image-name>
+            <original-name>Doctor-790x1024.jpg</original-name>
+            <style name="LnFImage">
+              <DimensionStyle width="81" height="102" />
+              <PositioningStyle left="10" top="61" />
+              <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+              <TransparencyStyle value="0" />
+              <RotationStyle angle="0" />
+              <ShadowStyle>
+                <Box enable="false" />
+              </ShadowStyle>
+            </style>
+            <userID>Image_1</userID>
+          </image>
+          <label id="d49a1caa-5182-4899-a8d1-fb106add58e3" auto-fit="false" hidden="false" locked="false" lockType="none" onTop="false" visible="true">
+            <text>症状：头疼，发热</text>
+            <style name="LnFTextBox">
+              <DimensionStyle width="160" height="22" />
+              <PositioningStyle left="132" top="61" />
+              <BackgroundStyle type="transparent" />
+              <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+              <TextStyle color="64r64g64b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+              <FontStyle size="12" height="21">
+                <family>Roboto</family>
+                <style name="Regular" weight="400" italic="normal" />
+                <evc-file>Roboto-Regular</evc-file>
+              </FontStyle>
+              <TransparencyStyle value="0" />
+              <PaddingStyle top="0" left="0" bottom="0" right="0" />
+              <RotationStyle angle="0" />
+              <ShadowStyle>
+                <Box enable="false" />
+                <Text enable="false" />
+              </ShadowStyle>
+            </style>
+            <userID>Label_1</userID>
+          </label>
+          <image id="168bd95b-a0fd-4ecf-971d-e06381d045a9" hidden="false" locked="false" lockType="none" onTop="false" visible="true">
+            <image-name>9c290c7f-ac3b-4c79-8206-37593546c544.jpg</image-name>
+            <original-name>prescription.jpg</original-name>
+            <style name="LnFImage">
+              <DimensionStyle width="312" height="352" />
+              <PositioningStyle left="0" top="188" />
+              <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+              <TransparencyStyle value="0" />
+              <RotationStyle angle="0" />
+              <ShadowStyle>
+                <Box enable="false" />
+              </ShadowStyle>
+            </style>
+            <userID>Image_2</userID>
+          </image>
+          <label id="36b1e20e-001c-4b20-81cb-f70a39f75344" auto-fit="false" hidden="false" locked="false" lockType="none" onTop="false" visible="true">
+            <text>诊断结果：感冒</text>
+            <style name="LnFTextBox">
+              <DimensionStyle width="160" height="22" />
+              <PositioningStyle left="132" top="89" />
+              <BackgroundStyle type="transparent" />
+              <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+              <TextStyle color="64r64g64b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+              <FontStyle size="12" height="21">
+                <family>Roboto</family>
+                <style name="Regular" weight="400" italic="normal" />
+                <evc-file>Roboto-Regular</evc-file>
+              </FontStyle>
+              <TransparencyStyle value="0" />
+              <PaddingStyle top="0" left="0" bottom="0" right="0" />
+              <RotationStyle angle="0" />
+              <ShadowStyle>
+                <Box enable="false" />
+                <Text enable="false" />
+              </ShadowStyle>
+            </style>
+            <userID>Label_2</userID>
+          </label>
+          <style name="LnFCell">
+            <DimensionStyle width="320" height="549" />
+            <PositioningStyle left="0" top="19" />
+            <BackgroundStyle type="transparent" />
+            <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+            <TransparencyStyle value="0" />
+            <LayoutStyle type="layoutFree" hAlign="1" vAlign="1" />
+            <ShadowStyle>
+              <Box enable="false" />
+            </ShadowStyle>
+          </style>
+        </item-group>
+      </tab>
+      <style name="LnFTabbedBox">
+        <DimensionStyle width="0" height="0" />
+        <PositioningStyle left="0" top="19" />
+      </style>
+      <userID>Main</userID>
+    </tabbedBox>
+    <style name="LnFCanvas">
+      <DimensionStyle width="320" height="568" />
+      <PositioningStyle left="0" top="0" />
+      <BackgroundStyle type="transparent" />
+      <TransparencyStyle value="0" />
+    </style>
+  </item-group>
+  <Events>
+    <event id="7fcd65ef-dadc-4444-a657-c6ada3fd8c26" trigger="onClick">
+      <case>
+        <description>Interaction</description>
+        <block>
+          <navigateLink>
+            <screen id="cc5c9bd5-aaf6-489b-8661-cede3e146593">菜单</screen>
+            <transition type="slideright" />
+          </navigateLink>
+        </block>
+      </case>
+    </event>
+  </Events>
+</screen>
+

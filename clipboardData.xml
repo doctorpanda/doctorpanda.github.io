@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <attribute-form id="e618eb1e-172c-4ac5-a93a-ab03ca96e8ad" writable="false" hidden="false" locked="true" lockType="vertical" onTop="false" visible="true">
+    <attStyle>InputText</attStyle>
+    <type>text</type>
+    <style name="LnFAttributeForm">
+      <DimensionStyle width="127" height="40" />
+      <PositioningStyle left="10" top="10" />
+      <BackgroundStyle type="color" value="255r255g255b" />
+      <BorderStyle radius="0" leftColor="200r200g200b" topColor="200r200g200b" rightColor="200r200g200b" bottomColor="200r200g200b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+      <TextStyle color="114r114g114b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+      <FontStyle size="11" height="16">
+        <family>Arial</family>
+        <style name="Regular" weight="400" italic="normal" />
+      </FontStyle>
+      <TransparencyStyle value="0" />
+      <PaddingStyle top="0" left="15" bottom="0" right="0" />
+      <ShadowStyle>
+        <Box enable="false" />
+        <Text enable="false" />
+      </ShadowStyle>
+    </style>
+    <defaultValue>[history.Name]</defaultValue>
+    <info>Input text</info>
+    <userID>Input_1</userID>
+  </attribute-form>
+  <Events>
+    <event id="e618eb1e-172c-4ac5-a93a-ab03ca96e8ad" trigger="onFocusIn">
+      <case>
+        <description>Interaction name</description>
+        <block>
+          <valueElement type="simple" item="e618eb1e-172c-4ac5-a93a-ab03ca96e8ad">
+            <Value type="textConstant">
+              <value></value>
+            </Value>
+          </valueElement>
+        </block>
+      </case>
+    </event>
+  </Events>
+</root>
+

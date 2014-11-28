@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object>
+  <name>history</name>
+  <date>27/11/2014 20:44:40</date>
+  <code>2688eebd-f46d-47e8-a8ca-31027bba7074</code>
+  <legend-item></legend-item>
+  <field isInDescriptor="true">
+    <code>54129c95-05e4-47e4-b4db-49c6b33d1fcf</code>
+    <name>Name</name>
+    <type>text</type>
+    <style>InputText</style>
+  </field>
+  <field isInDescriptor="true">
+    <code>5fd066de-3d12-4fe2-9fc4-48c0761d0969</code>
+    <name>Image</name>
+    <type>file</type>
+    <style>InputFile</style>
+  </field>
+  <field isInDescriptor="true">
+    <code>d16f9de0-e1b7-46d3-9153-41ef9f78fc0a</code>
+    <name>Date</name>
+    <type>text</type>
+    <style>InputText</style>
+  </field>
+  <listInstances>
+    <instance>
+      <instanceAttValue>
+        <field>Name</field>
+        <value>张医生</value>
+      </instanceAttValue>
+      <instanceAttValue>
+        <field>Image</field>
+        <value></value>
+      </instanceAttValue>
+      <instanceAttValue>
+        <field>Date</field>
+        <value>2014年11月24日</value>
+      </instanceAttValue>
+    </instance>
+    <instance>
+      <instanceAttValue>
+        <field>Name</field>
+        <value>李医生</value>
+      </instanceAttValue>
+      <instanceAttValue>
+        <field>Image</field>
+        <value></value>
+      </instanceAttValue>
+      <instanceAttValue>
+        <field>Date</field>
+        <value>2014年11月8日</value>
+      </instanceAttValue>
+    </instance>
+    <instance>
+      <instanceAttValue>
+        <field>Name</field>
+        <value>王医生</value>
+      </instanceAttValue>
+      <instanceAttValue>
+        <field>Image</field>
+        <value></value>
+      </instanceAttValue>
+      <instanceAttValue>
+        <field>Date</field>
+        <value>2014年11月4日</value>
+      </instanceAttValue>
+    </instance>
+  </listInstances>
+</object>
+

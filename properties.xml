@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<properties>
+  <prototypeID>38bc6f69-5869-4526-a7ab-83d9d346a64f</prototypeID>
+  <cloudID>0</cloudID>
+  <accountCloudID>0</accountCloudID>
+  <version>6.1.0.20140909</version>
+  <prototypeDevice>iPhone5</prototypeDevice>
+  <canvasSize w="320" h="568" />
+  <canvasOrientation>PORTRAIT</canvasOrientation>
+  <defaultTemplateCode>f39803f7-df02-4169-93eb-7547fb8c961a</defaultTemplateCode>
+  <homeScreenCode>5269f4d6-29ab-4edd-9ddd-30effe7f496a</homeScreenCode>
+</properties>
+
